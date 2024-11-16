@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhen Jia"
-description              : "No description. "
+description              : "Undergraduate student at Nankai University "
 repository               : "Valentina0127/Valentina0127.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhen Jia"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "TianJia, China"
+  bio              : "Nankai University"
+  location         : "TianJin, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "z18435500127@gmail.com
+  email            : "z18435500127@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
