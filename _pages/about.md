@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a undergraduate student in Artificial Intelligence at [Nankai University](https://www.nankai.edu.cn/). I have been a research student in AI4CE LAB at New York University, working with Yiming Li, advised by Prof.Chen Feng since Mar.2024. My research interests include computer vision, autonomous driving and machine learning.
+I am a undergraduate student in Artificial Intelligence at [Nankai University](https://www.nankai.edu.cn/). I have been a research student in [AI4CE LAB](https://ai4ce.github.io/) at New York University, working with [Yiming Li](https://yimingli-page.github.io/), advised by [Prof.Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) since Mar.2024. My research interests include computer vision, autonomous driving and machine learning.
 
 # 📖 Educations
 - *2021.09 - now*, School of Artificial Intelligence, Nankai University, Tianjin China.
