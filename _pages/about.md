@@ -22,6 +22,7 @@ I am a undergraduate student in Artificial Intelligence at [Nankai University](h
 # 📖 Educations
 - *2021.09 - now*, School of Artificial Intelligence, Nankai University, Tianjin China.
 
+/*
 <!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -42,6 +43,7 @@ I am a undergraduate student in Artificial Intelligence at [Nankai University](h
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+*/
 
 # 🎖 Honors and Awards
 - *2022.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
