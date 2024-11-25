@@ -6,20 +6,15 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a fourth-year undergraduate student majoring in Intelligent Science and Technology at the College of Artificial Intelligence, [Nankai University](https://www.nankai.edu.cn/), located in Tianjin, China. I have been a research student in [AI4CE LAB](https://ai4ce.github.io/) at New York University(NYU), working with [Dr.Yiming Li](https://yimingli-page.github.io/), advised by [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) since Mar.2024.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests focus on computer vision, machine learning, and their applications in robotics, with an emphasis on designing highly automated robots capable of perceiving and interacting with complex environments with minimal human intervention. This work aims to contribute to the advancement of automated robots and embodied AI in the future.
