@@ -19,4 +19,4 @@ I am a fourth-year undergraduate student majoring in Intelligent Science and Tec
 
 My research interests focus on computer vision, machine learning, and their applications in robotics, with an emphasis on designing highly automated robots capable of perceiving and interacting with complex environments with minimal human intervention. This work aims to contribute to the advancement of automated robots and embodied AI in the future.
 
-Outside of research, I enjoy traveling and various sports, including jogging and skiing. My dream is to travel around the world.
+Outside of research, I enjoy traveling and various sports, such as jogging and skiing. My dream is to travel around the world.
